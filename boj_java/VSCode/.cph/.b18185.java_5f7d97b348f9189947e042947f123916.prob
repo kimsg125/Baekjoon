@@ -1,0 +1,1 @@
+{"name":"Local: b18185","url":"c:\\ssafy2\\Baekjoon\\boj_java\\VSCode\\b18185.java","tests":[{"id":1770941083214,"input":"3\n1 0 1","output":"6"},{"id":1770941098163,"input":"5\n1 1 1 0 2","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ssafy2\\Baekjoon\\boj_java\\VSCode\\b18185.java","group":"local","local":true}
